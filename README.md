@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b1243ab5-0dac-481f-9f29-49d344a35237/deploy-status)](https://app.netlify.com/sites/fervent-hugle-cd0259/deploys)
+
 # 🐯 2022 New Year Message
 
 <img src="https://user-images.githubusercontent.com/66389585/151705793-035b1058-cde1-4ac1-806a-29c775844b62.JPEG" width="600px" />
